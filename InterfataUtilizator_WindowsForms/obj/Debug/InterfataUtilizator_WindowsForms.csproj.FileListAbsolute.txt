@@ -1,0 +1,14 @@
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.exe.config
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.exe
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\bin\Debug\InterfataUtilizator_WindowsForms.pdb
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Properties.Resources.resources
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.exe
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.pdb
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\bin\Debug\Salon Cosmetic.exe
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\bin\Debug\Salon Cosmetic.pdb
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\bin\Debug\Salon Cosmetic.exe.config
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\Interfat.43DF67F2.Up2Date
