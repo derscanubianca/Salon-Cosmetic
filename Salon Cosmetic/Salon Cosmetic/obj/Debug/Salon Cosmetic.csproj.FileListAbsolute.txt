@@ -1,7 +1,0 @@
-C:\Users\Bianca\source\repos\Salon Cosmetic\Salon Cosmetic\bin\Debug\Salon Cosmetic.exe.config
-C:\Users\Bianca\source\repos\Salon Cosmetic\Salon Cosmetic\bin\Debug\Salon Cosmetic.exe
-C:\Users\Bianca\source\repos\Salon Cosmetic\Salon Cosmetic\bin\Debug\Salon Cosmetic.pdb
-C:\Users\Bianca\source\repos\Salon Cosmetic\Salon Cosmetic\obj\Debug\Salon Cosmetic.csproj.AssemblyReference.cache
-C:\Users\Bianca\source\repos\Salon Cosmetic\Salon Cosmetic\obj\Debug\Salon Cosmetic.csproj.CoreCompileInputs.cache
-C:\Users\Bianca\source\repos\Salon Cosmetic\Salon Cosmetic\obj\Debug\Salon Cosmetic.exe
-C:\Users\Bianca\source\repos\Salon Cosmetic\Salon Cosmetic\obj\Debug\Salon Cosmetic.pdb
