@@ -1,41 +1,45 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace InterfataUtilizator_WindowsForms
+﻿namespace InterfataUtilizator_WindowsForms
 {
-    static class Program
+    partial class Form1
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Label lblTitlu;
+        private System.Windows.Forms.Label lblNume;
+
+        private void InitializeComponent()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            this.lblTitlu = new System.Windows.Forms.Label();
+            this.lblNume = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lblTitlu
+            // 
+            this.lblTitlu.AutoSize = true;
+            this.lblTitlu.Location = new System.Drawing.Point(50, 20);
+            this.lblTitlu.Name = "lblTitlu";
+            this.lblTitlu.Size = new System.Drawing.Size(80, 13);
+            this.lblTitlu.TabIndex = 0;
+            this.lblTitlu.Text = "Salon Cosmetic";
+            // 
+            // lblNume
+            // 
+            this.lblNume.AutoSize = true;
+            this.lblNume.Location = new System.Drawing.Point(50, 60);
+            this.lblNume.Name = "lblNume";
+            this.lblNume.Size = new System.Drawing.Size(89, 13);
+            this.lblNume.TabIndex = 1;
+            this.lblNume.Text = "Derscanu Bianca";
+            // 
+            // Form1
+            // 
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.lblTitlu);
+            this.Controls.Add(this.lblNume);
+            this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load_1);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
-    }
-}
-
-public class Form1 : Form, IDropTarget, ISynchronizeInvoke, IWin32Window, IBindableComponent, IComponent, IDisposable, IContainerControl
-{
-    private Label lblTitlu;
-    private Label lblNume;
-
-    public Form1()
-    {
-        InitializeComponent();
-    }
-
-    private void InitializeComponent()
-    {
-        this.lblTitlu = new Label();
-        this.lblNume = new Label();
-        // Additional initialization code here
     }
 }
