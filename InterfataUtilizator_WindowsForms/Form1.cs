@@ -9,14 +9,11 @@ namespace InterfataUtilizator_WindowsForms
         {
             InitializeComponent();
 
-            // Inițializare proprietăți pentru formă
-            this.Text = "Salon Cosmetic"; // Titlul ferestrei
-            this.Size = new System.Drawing.Size(400, 300); // Dimensiunea ferestrei
-            this.StartPosition = FormStartPosition.CenterScreen; // Centrare pe ecran
-            this.FormBorderStyle = FormBorderStyle.FixedDialog; // Tip de fereastră
-
-            // Schimbarea culorii de fundal
-            this.BackColor = System.Drawing.Color.LightPink;
+            // Setări generale pentru formă
+            this.Text = "Adăugare Client Nou";
+            this.Size = new System.Drawing.Size(400, 300);
+            this.StartPosition = FormStartPosition.CenterScreen;
+            this.BackColor = System.Drawing.Color.LightBlue;
 
             // Schimbarea fontului pentru toate controalele
             this.Font = new System.Drawing.Font("Arial", 10, System.Drawing.FontStyle.Bold);
@@ -24,7 +21,7 @@ namespace InterfataUtilizator_WindowsForms
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // Se execută la încărcarea formei (dacă ai nevoie de inițializări suplimentare)
+            // Inițializare dacă este necesar la încărcare
         }
 
         private void Form1_Load_1(object sender, EventArgs e)
