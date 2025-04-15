@@ -10,7 +10,7 @@ namespace Salon_Cosmetic
         private List<Client> clienti;
         private AdministrareClientiFisier adminFisier;
 
-        // Constructor must have the same name as the class
+        
         public AdministareClienti(AdministrareClientiFisier adminFisier)
         {
             this.adminFisier = adminFisier;

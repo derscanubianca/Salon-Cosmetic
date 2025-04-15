@@ -12,3 +12,5 @@ C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\bin
 C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\bin\Debug\Salon Cosmetic.exe.config
 C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\Interfat.43DF67F2.Up2Date
 C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Form1.resources
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Form2.resources
+C:\Users\Bianca\source\repos\Salon Cosmetic\InterfataUtilizator_WindowsForms\obj\Debug\InterfataUtilizator_WindowsForms.Form3.resources

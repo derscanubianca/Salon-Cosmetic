@@ -1,2 +1,5 @@
 3,Alexandra Andries,0741931259,strada Luceafarului
 2,Anastasia Roman,0771956230,strada Oituz
+5,Andreea Derscanu,0741963528,strada Dimitrie Onciul
+6,Bianca Derscanu,0774895632,strada Europa
+20,Cristina Derscanu,0741852963,strada Luceafarului

@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Salon_Cosmetic
 {
-   public class AdministrareClientiFisier
+    public class AdministrareClientiFisier
     {
         string caleFisier;
+
         public AdministrareClientiFisier(string caleFisier)
         {
             this.caleFisier = caleFisier;
@@ -41,6 +40,18 @@ namespace Salon_Cosmetic
                 }
             }
             return clienti;
+        }
+
+        public List<Client> GetClient(string nume)
+        {
+            List<Client> matchingClients = new List<Client>();
+            var clienti = CitesteDinFisier();
+
+            matchingClients = clienti
+                .Where(c => c.Nume.Equals(nume, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+
+            return matchingClients;
         }
     }
 }
