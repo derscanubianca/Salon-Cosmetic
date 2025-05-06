@@ -1,16 +1,19 @@
 ﻿using System;
+using System.Windows.Forms;
+
 namespace InterfataUtilizator_WindowsForms
 {
-    partial class Form2
+    partial class Form2 : System.Windows.Forms.Form // Ensure Form2 inherits from System.Windows.Forms.Form
     {
-       
-        private void Form2_Load(object sender, EventArgs e)
-        {
-            
-        }
+        /// <summary>
+        /// Varibilele necesare pentru componentele formularului.
+        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        /// <summary>
+        /// Curăță resursele utilizate.
+        /// </summary>
+        /// <param name="disposing">True dacă gestionarul resurselor externe trebuie să fie apelat; false dacă nu.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,24 +23,26 @@ namespace InterfataUtilizator_WindowsForms
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region "Cod generat de Designer"
 
-        
+        /// <summary>
+        /// Metoda necesară pentru inițializarea componentelor formularului.
+        /// Acesta este apelat în constructorul formularului.
+        /// </summary>
         private void InitializeComponent()
         {
+            // Inițializare și setare a componentelor (controale) formularului
             this.SuspendLayout();
-             
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form2";
-            this.Text = "Form2";
-            this.Load += new System.EventHandler(this.Form2_Load);
-            this.ResumeLayout(false);
 
+            // Form2
+            this.ClientSize = new System.Drawing.Size(800, 450); // Dimensiunea formularului
+            this.Name = "Form2"; // Numele formularului
+            this.Text = "Formular 2"; // Titlul formularului
+            this.Load += new System.EventHandler(this.Form2_Load); // Atașează evenimentul Form2_Load la formular
+
+            this.ResumeLayout(false);
         }
 
-        
         #endregion
     }
 }

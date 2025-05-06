@@ -1,0 +1,3 @@
+60,Numerar,Coafor
+100,Numerar,Pedichiura
+85,Numerar,Epilare

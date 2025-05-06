@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
+using Salon_Cosmetic;
 
 namespace InterfataUtilizator_WindowsForms
 {
@@ -40,7 +41,7 @@ namespace InterfataUtilizator_WindowsForms
             btnClienti.Top = 100;
             btnClienti.Left = 120;
             btnClienti.Width = 150;
-            btnClienti.Click += (s, e) => { new Form2().Show(); };
+            btnClienti.Click += (s, e) => { new Form2().Show(); }; // Apelarea unui nou Form2
             this.Controls.Add(btnClienti);
 
             // Buton „Programări”
@@ -52,7 +53,7 @@ namespace InterfataUtilizator_WindowsForms
             btnProgramari.Top = 150;
             btnProgramari.Left = 120;
             btnProgramari.Width = 150;
-            btnProgramari.Click += (s, e) => { new Form3().Show(); };
+            btnProgramari.Click += (s, e) => { new Form3().Show(); }; // Apelarea unui nou Form3
             this.Controls.Add(btnProgramari);
         }
     }
