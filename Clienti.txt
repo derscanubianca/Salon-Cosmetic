@@ -6,3 +6,5 @@
 60,Derscanu Ioana,074185263,strada Dimitrie Dan
 100,Ruxandra Andreea,0714852963,strada Luceafarului 
 85,Ruxandra Maria,0748956213,strada Oituz 
+95,Popescu Maria,0741258963,strada Dimitrie Dan 
+

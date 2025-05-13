@@ -53,5 +53,17 @@ namespace Salon_Cosmetic
 
             return matchingClients;
         }
+        // Add this method to the AdministrareClientiFisier class
+        public void SalveazaInFisier(List<Client> clienti)
+        {
+            using (StreamWriter sw = new StreamWriter(caleFisier, false))
+            {
+                foreach (var client in clienti)
+                {
+                    sw.WriteLine($"{client.Id},{client.Nume},{client.Telefon},{client.Adresa}");
+                }
+            }
+        }
+
     }
 }

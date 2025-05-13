@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|c:\\users\\bianca\\source\\repos\\salon cosmetic\\interfatautilizator_windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\salon cosmetic\\administrareclientifisier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|solutionrelative:salon cosmetic\\administrareclientifisier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -25,6 +37,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\salon cosmetic\\serviciu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|solutionrelative:salon cosmetic\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\salon cosmetic\\administrareclientifisier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|solutionrelative:salon cosmetic\\administrareclientifisier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\salon cosmetic\\administrareprogramarifisier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|solutionrelative:salon cosmetic\\administrareprogramarifisier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{6C8DBE92-BFE5-4B47-AB3D-FD0806F15A74}|Salon Cosmetic\\Salon Cosmetic.csproj|solutionrelative:salon cosmetic\\administareclienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|c:\\users\\bianca\\source\\repos\\salon cosmetic\\interfatautilizator_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|solutionrelative:interfatautilizator_windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB06DE04-925B-4D0C-8401-1E89BC7AD10C}|InterfataUtilizator_WindowsForms\\InterfataUtilizator_WindowsForms.csproj|C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\interfatautilizator_windowsforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,11 +94,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:08:25.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form1.cs",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:36:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.cs",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form2.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAIwM4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:41:55.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form1.cs",
               "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form1.cs",
@@ -106,58 +149,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.cs",
-              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form2.cs",
-              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.cs",
-              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form2.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAkwKMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:41:55.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form1.cs",
-              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form1.cs",
-              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T20:36:25.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.cs",
               "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form2.cs",
-              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.cs [Design]",
-              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.cs [Design]*",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form2.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:41:53.392Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-15T18:41:53.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form2.Designer.cs",
               "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.Designer.cs",
               "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form2.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T19:06:56.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Serviciu.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\Serviciu.cs",
               "RelativeDocumentMoniker": "Salon Cosmetic\\Serviciu.cs",
@@ -165,12 +181,11 @@
               "RelativeToolTip": "Salon Cosmetic\\Serviciu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:15:21.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T20:15:21.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\Client.cs",
               "RelativeDocumentMoniker": "Salon Cosmetic\\Client.cs",
@@ -178,12 +193,46 @@
               "RelativeToolTip": "Salon Cosmetic\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T18:58:35.65Z",
+              "WhenOpened": "2025-04-08T18:58:35.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdministrareClientiFisier.cs",
+              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\AdministrareClientiFisier.cs",
+              "RelativeDocumentMoniker": "Salon Cosmetic\\AdministrareClientiFisier.cs",
+              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\AdministrareClientiFisier.cs",
+              "RelativeToolTip": "Salon Cosmetic\\AdministrareClientiFisier.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:48:41.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form3.cs",
+              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:42:33.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.resx",
+              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.resx",
+              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form3.resx",
+              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.resx",
+              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form3.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-13T18:26:22.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Programare.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\Programare.cs",
               "RelativeDocumentMoniker": "Salon Cosmetic\\Programare.cs",
@@ -191,12 +240,11 @@
               "RelativeToolTip": "Salon Cosmetic\\Programare.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:46:51.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T18:46:51.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\Program.cs",
               "RelativeDocumentMoniker": "Salon Cosmetic\\Program.cs",
@@ -204,12 +252,11 @@
               "RelativeToolTip": "Salon Cosmetic\\Program.cs",
               "ViewState": "AgIAAKYAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T20:15:09.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T20:15:09.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form1.Designer.cs",
@@ -222,20 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdministrareClientiFisier.cs",
-              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\AdministrareClientiFisier.cs",
-              "RelativeDocumentMoniker": "Salon Cosmetic\\AdministrareClientiFisier.cs",
-              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\AdministrareClientiFisier.cs",
-              "RelativeToolTip": "Salon Cosmetic\\AdministrareClientiFisier.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:48:41.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "AdministrareProgramariFisier.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\AdministrareProgramariFisier.cs",
               "RelativeDocumentMoniker": "Salon Cosmetic\\AdministrareProgramariFisier.cs",
@@ -243,12 +277,11 @@
               "RelativeToolTip": "Salon Cosmetic\\AdministrareProgramariFisier.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:48:26.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T18:48:26.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AdministareClienti.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\AdministareClienti.cs",
               "RelativeDocumentMoniker": "Salon Cosmetic\\AdministareClienti.cs",
@@ -256,12 +289,11 @@
               "RelativeToolTip": "Salon Cosmetic\\AdministareClienti.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:44:20.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T18:44:20.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Program.cs",
               "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Program.cs",
@@ -269,37 +301,11 @@
               "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T20:14:42.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T20:14:42.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.Designer.cs",
-              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form3.Designer.cs",
-              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.Designer.cs",
-              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form3.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T19:08:25.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.cs",
-              "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form3.cs",
-              "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.cs [Design]",
-              "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:42:33.722Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form3.cs",
               "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form3.cs",
@@ -307,12 +313,11 @@
               "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form3.cs",
               "ViewState": "AgIAABoBAAAAAAAAAAAQwD4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:42:42.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T18:42:42.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form1.resx",
               "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form1.resx",
@@ -324,19 +329,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Form2.resx",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.resx",
               "RelativeDocumentMoniker": "InterfataUtilizator_WindowsForms\\Form2.resx",
               "ToolTip": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\InterfataUtilizator_WindowsForms\\Form2.resx",
               "RelativeToolTip": "InterfataUtilizator_WindowsForms\\Form2.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-15T19:14:32.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T19:14:32.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Bianca\\source\\repos\\Salon Cosmetic\\Salon Cosmetic\\App.config",
               "RelativeDocumentMoniker": "Salon Cosmetic\\App.config",

@@ -15,7 +15,7 @@ namespace InterfataUtilizator_WindowsForms
         private Label lblId, lblNume, lblTelefon, lblAdresa, lblPlata, lblServicii;
         private RadioButton rbCard, rbNumerar;
         private CheckBox chkCoafor, chkManichiura, chkPedichiura, chkMachiaj, chkEpilare, chkMasaj;
-        private Button btnAdauga;
+        private Button btnAdauga, btnActualizeaza;
 
         public Form2()
         {
@@ -37,17 +37,10 @@ namespace InterfataUtilizator_WindowsForms
 
             adminClienti = new AdministrareClientiFisier(caleClienti);
             InitializeUI();
-            this.Load += Form2_Load;
-        }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-            // No additional loading required for now
         }
 
         private void InitializeUI()
         {
-            // Labels
             lblId = new Label { Text = "ID:", Location = new Point(30, 30), AutoSize = true };
             lblNume = new Label { Text = "Nume:", Location = new Point(30, 70), AutoSize = true };
             lblTelefon = new Label { Text = "Telefon:", Location = new Point(30, 110), AutoSize = true };
@@ -55,17 +48,14 @@ namespace InterfataUtilizator_WindowsForms
             lblPlata = new Label { Text = "Modalitate de plată:", Location = new Point(30, 190), AutoSize = true };
             lblServicii = new Label { Text = "Servicii dorite:", Location = new Point(30, 250), AutoSize = true };
 
-            // Textboxes
             txtId = new TextBox { Location = new Point(150, 30), Width = 200 };
             txtNume = new TextBox { Location = new Point(150, 70), Width = 200 };
             txtTelefon = new TextBox { Location = new Point(150, 110), Width = 200 };
             txtAdresa = new TextBox { Location = new Point(150, 150), Width = 200 };
 
-            // Radio Buttons for Payment Method
             rbCard = new RadioButton { Text = "Card", Location = new Point(150, 190), AutoSize = true, Checked = true };
             rbNumerar = new RadioButton { Text = "Numerar", Location = new Point(250, 190), AutoSize = true };
 
-            // Checkboxes for Services
             chkCoafor = new CheckBox { Text = "Coafor", Location = new Point(150, 250), AutoSize = true };
             chkManichiura = new CheckBox { Text = "Manichiura", Location = new Point(150, 280), AutoSize = true };
             chkPedichiura = new CheckBox { Text = "Pedichiura", Location = new Point(150, 310), AutoSize = true };
@@ -73,20 +63,20 @@ namespace InterfataUtilizator_WindowsForms
             chkEpilare = new CheckBox { Text = "Epilare", Location = new Point(150, 370), AutoSize = true };
             chkMasaj = new CheckBox { Text = "Masaj", Location = new Point(150, 400), AutoSize = true };
 
-            // Button
-            btnAdauga = new Button { Text = "Adaugă Client", Location = new Point(150, 450), Width = 100 };
+            btnAdauga = new Button { Text = "Adaugă Client", Location = new Point(60, 450), Width = 120 };
             btnAdauga.Click += BtnAdauga_Click;
 
-            // Add controls to form
+            btnActualizeaza = new Button { Text = "Actualizează Client", Location = new Point(200, 450), Width = 140 };
+            btnActualizeaza.Click += BtnActualizeaza_Click;
+
             this.Controls.AddRange(new Control[] {
                 lblId, lblNume, lblTelefon, lblAdresa, lblPlata, lblServicii,
                 txtId, txtNume, txtTelefon, txtAdresa,
                 rbCard, rbNumerar,
                 chkCoafor, chkManichiura, chkPedichiura, chkMachiaj, chkEpilare, chkMasaj,
-                btnAdauga
+                btnAdauga, btnActualizeaza
             });
 
-            // Add focus effects to textboxes
             foreach (var control in new[] { txtId, txtNume, txtTelefon, txtAdresa })
             {
                 control.GotFocus += (s, e) => ((TextBox)s).BackColor = Color.Yellow;
@@ -111,7 +101,6 @@ namespace InterfataUtilizator_WindowsForms
                 return;
             }
 
-            // Check if ID already exists
             var existingClients = adminClienti.CitesteDinFisier();
             if (existingClients.Any(c => c.Id == id))
             {
@@ -119,10 +108,7 @@ namespace InterfataUtilizator_WindowsForms
                 return;
             }
 
-            // Get payment method
             string metodaPlata = rbCard.Checked ? "Card" : "Numerar";
-
-            // Get selected services
             List<string> servicii = new List<string>();
             if (chkCoafor.Checked) servicii.Add("Coafor");
             if (chkManichiura.Checked) servicii.Add("Manichiura");
@@ -131,11 +117,9 @@ namespace InterfataUtilizator_WindowsForms
             if (chkEpilare.Checked) servicii.Add("Epilare");
             if (chkMasaj.Checked) servicii.Add("Masaj");
 
-            // Create new client
             Client clientNou = new Client(id, txtNume.Text, txtTelefon.Text, txtAdresa.Text);
             adminClienti.AdaugaClient(clientNou);
 
-            // Save additional client info (payment method and services) to a separate file
             string caleClientiExtra = Path.Combine(
                 Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName, "ClientiExtra.txt");
             using (StreamWriter sw = new StreamWriter(caleClientiExtra, true))
@@ -143,21 +127,85 @@ namespace InterfataUtilizator_WindowsForms
                 sw.WriteLine($"{id},{metodaPlata},{string.Join(";", servicii)}");
             }
 
-            // Clear inputs
+            ClearInputs();
+            MessageBox.Show("Client adăugat cu succes!", "Succes", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void BtnActualizeaza_Click(object sender, EventArgs e)
+        {
+            if (!int.TryParse(txtId.Text, out int id))
+            {
+                MessageBox.Show("ID invalid!", "Eroare", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            var clienti = adminClienti.CitesteDinFisier();
+            var index = clienti.FindIndex(c => c.Id == id);
+            if (index == -1)
+            {
+                MessageBox.Show("Clientul nu există!", "Eroare", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            clienti[index].Nume = txtNume.Text;
+            clienti[index].Telefon = txtTelefon.Text;
+            clienti[index].Adresa = txtAdresa.Text;
+
+            adminClienti.SalveazaInFisier(clienti);
+
+            string caleClientiExtra = Path.Combine(
+                Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName, "ClientiExtra.txt");
+
+            string metodaPlata = rbCard.Checked ? "Card" : "Numerar";
+            List<string> servicii = new List<string>();
+            if (chkCoafor.Checked) servicii.Add("Coafor");
+            if (chkManichiura.Checked) servicii.Add("Manichiura");
+            if (chkPedichiura.Checked) servicii.Add("Pedichiura");
+            if (chkMachiaj.Checked) servicii.Add("Machiaj");
+            if (chkEpilare.Checked) servicii.Add("Epilare");
+            if (chkMasaj.Checked) servicii.Add("Masaj");
+
+            var linii = File.ReadAllLines(caleClientiExtra).ToList();
+            bool gasit = false;
+
+            for (int i = 0; i < linii.Count; i++)
+            {
+                if (linii[i].StartsWith($"{id},"))
+                {
+                    linii[i] = $"{id},{metodaPlata},{string.Join(";", servicii)}";
+                    gasit = true;
+                    break;
+                }
+            }
+
+            if (!gasit)
+            {
+                linii.Add($"{id},{metodaPlata},{string.Join(";", servicii)}");
+            }
+
+            File.WriteAllLines(caleClientiExtra, linii);
+
+            MessageBox.Show("Datele au fost actualizate!", "Succes", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void ClearInputs()
+        {
             txtId.Clear();
             txtNume.Clear();
             txtTelefon.Clear();
             txtAdresa.Clear();
             rbCard.Checked = true;
-            rbNumerar.Checked = false;
             chkCoafor.Checked = false;
             chkManichiura.Checked = false;
             chkPedichiura.Checked = false;
             chkMachiaj.Checked = false;
             chkEpilare.Checked = false;
             chkMasaj.Checked = false;
-
-            MessageBox.Show("Client adăugat cu succes!", "Succes", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            
+            
         }
     }
 }
